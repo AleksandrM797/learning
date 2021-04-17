@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32c48742-c630-48b4-aebf-e7e393ef2bb3" name="Default Changelist" comment="index.html" />
+    <list default="true" id="32c48742-c630-48b4-aebf-e7e393ef2bb3" name="Default Changelist" comment="index.html">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/index_html.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/index_html.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,6 +89,7 @@
       <workItem from="1618640024420" duration="3364000" />
       <workItem from="1618649405437" duration="1645000" />
       <workItem from="1618651084604" duration="392000" />
+      <workItem from="1618655659733" duration="462000" />
     </task>
     <task id="LOCAL-00001" summary="index.html">
       <created>1618640285574</created>
@@ -128,14 +132,18 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="465" y="91" key="CommitChangelistDialog2/0.0.1680.1010@0.0.1680.1010" timestamp="1618648934861" />
-    <state x="620" y="259" key="FileChooserDialogImpl" timestamp="1618650517922">
+    <state x="620" y="259" key="FileChooserDialogImpl" timestamp="1618655655913">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="620" y="259" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1618650517922" />
+    <state x="620" y="259" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1618655655913" />
     <state x="341" y="149" key="SettingsEditor" timestamp="1618648596736">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="341" y="149" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1618648596736" />
+    <state x="432" y="237" key="Vcs.Push.Dialog.v2" timestamp="1618655796218">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="432" y="237" key="Vcs.Push.Dialog.v2/0.0.1680.1010@0.0.1680.1010" timestamp="1618655796218" />
     <state x="670" y="295" key="svn.repositoryBrowser" timestamp="1618650358000">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
